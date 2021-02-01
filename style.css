@@ -1,38 +1,32 @@
 
+
+/* background*/
+
 body {
     background-color: black;
     background-image: url(https://images.unsplash.com/photo-1518112166137-85f9979a43aa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
     background-repeat: no-repeat;
     background-size: cover;
-   
+      
   }
-  .aboutme, a {
+
+  /* content text color */
+  .aboutme, a, label {
     color: white;
   }
  
+/*Headings-About Me, Portfolio, Contact*/
 
   h1 {
     color:rgb(0, 102, 255);
 
   }
-
+/* portfolio imgs icons*/
   img {
     border-style: solid;
     border-color: black;
-    border-width: 20px;
-    float: left;
+    border-width: 5px;
   }
-
-nav {
-  justify-content:right;
-}
-
-
-/** Form */
-
-label {
-    color: white;
-}
 
 
 /** footer */
@@ -47,7 +41,7 @@ label {
     border-color: rgb(0, 102, 255);
    
     
-  }
+}
 .fixed_footer p{
       color:white;
       column-count: 2;
@@ -55,5 +49,4 @@ label {
       font-size: 1em;
       font-weight: 300;
       text-align: center;
-      
-    }
+}
