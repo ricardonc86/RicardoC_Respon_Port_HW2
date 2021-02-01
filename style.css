@@ -6,21 +6,16 @@ body {
     background-size: cover;
    
   }
-  .aboutme {
+  .aboutme, a {
     color: white;
-   
-
   }
+ 
 
   h1 {
     color:rgb(0, 102, 255);
 
   }
-  a {
-    color: white;
-  }
 
-  
   img {
     border-style: solid;
     border-color: black;
@@ -28,23 +23,19 @@ body {
     float: left;
   }
 
-.navbar-nav {
+nav {
   justify-content:right;
 }
 
 
 /** Form */
 
-
-
 label {
     color: white;
 }
 
 
-
 /** footer */
-
 
 .fixed_footer{
     width: 100%;
