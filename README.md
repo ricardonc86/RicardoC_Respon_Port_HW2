@@ -9,7 +9,7 @@ By conducting this project I understand on why having a responsive website is im
 
 <img src="https://github.com/ricardonc86/RicardoC_Respon_Port_HW2/blob/main/images/screencapture-ricardonc86-github-io-RicardoC-Respon-Port-HW2-2021-02-01-10_36_20.png" alt="Portfolio_full_view"/>
 
-<img src"" alt="Portfolio_small_view">
+<img src="https://github.com/ricardonc86/RicardoC_Respon_Port_HW2/blob/main/images/screencapture-ricardonc86-github-io-RicardoC-Respon-Port-HW2-2021-02-01-11_03_16.png" alt="Portfolio_small_view">
 
 
 deploy link: https://ricardonc86.github.io/RicardoC_Respon_Port_HW2/
